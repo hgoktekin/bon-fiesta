@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         print("bonne aniversaire")
         print("c'est un bon histoire.")
         print("je me suis abandonne")
-        // Do any additional setup after loading the view.
     }
 
 
